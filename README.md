@@ -1,4 +1,4 @@
-# Project "Database System for company offering various types of courses and training"  🚀
+# "Database System for company offering various types of courses and training"  🚀
 
 ## Description
 
