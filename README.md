@@ -12,4 +12,4 @@ Below is a visual representation of the database schema:
 
 ![Database Schema](Hotel_Database/Diagram.jpg)
 
-#### *Details about the project are included in the instructions file.*
+#### *Details about the project are included in the Instruction.pdf file.*
