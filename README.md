@@ -1,4 +1,4 @@
-# "Database System for company offering various types of courses and training"  🚀
+# "Database System for company offering various types of courses and training"  🚀📊
 
 ## Description
 
@@ -6,7 +6,7 @@ This project was completed as part of the Database Systems course at AGH 2023/20
 The aim of the project was to design a database system for a company offering various courses and training programs, 
 which have been digitized to varying degrees due to the COVID-19 pandemic. 
 
-## Visual Representation
+## Visual Representation 💡
 
 Below is a visual representation of the database schema:
 
