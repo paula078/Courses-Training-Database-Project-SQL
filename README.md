@@ -10,6 +10,6 @@ which have been digitized to varying degrees due to the COVID-19 pandemic.
 
 Below is a visual representation of the database schema:
 
-![Database Schema](Hotel_Database/Diagram.jpg)
+![Database Schema](Diagram.png)
 
 #### *Details about the project are included in the Instruction.pdf file.*
